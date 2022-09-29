@@ -9,7 +9,7 @@ Este es un proyecto de un motor de busqueda para imagenes, donde le das una pala
 * React
 * Formik
 
-## Instalaciion
+## Instalación
 
 Aqui se mostraran los pasos para la descarga del proyecto
 
